@@ -4,7 +4,7 @@
 
 for version `1.0.0`
 ```json
-"com.virtuesky.disk-space-checker":"https://github.com/unity-package/disk-space-checker-unity.git#1.0.0",
+"com.unity-package.disk-space-checker":"https://github.com/unity-package/disk-space-checker-unity.git#1.0.0",
 ```
 
 ## Use
