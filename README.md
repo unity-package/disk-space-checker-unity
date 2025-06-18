@@ -2,7 +2,20 @@
 
 ### Add the line below to `Packages/manifest.json`
 
-for version `x.x.x`
+for version `1.0.0`
 ```json
-"com.virtuesky._package_name_":"https://github.com/VirtueSky/_package_name_.git#x.x.x",
+"com.virtuesky.disk-space-checker":"https://github.com/unity-package/disk-space-checker-unity.git#1.0.0",
+```
+
+## Use
+
+- Example usage script:
+
+```csharp
+    public void CheckDisk() {
+        long freeSpace = DiskSpaceCheck.GetAvailableDiskSize();
+        float freeSpaceMB = DiskSpaceCheck.GetAvailableDiskSizeInMB();
+        float freeSpaceGB = DiskSpaceCheck.GetAvailableDiskSizeInGB();
+        Debug.Log($"free space available on disk: {freeSpace} / {freeSpaceMB} MB / {freeSpaceGB}.");
+    }
 ```
