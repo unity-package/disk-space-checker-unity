@@ -1,5 +1,5 @@
 {
-  "name": "com.virtuesky.disk-space-checker",
+  "name": "com.unity-package.disk-space-checker",
   "displayName": "DiskSpaceChecker",
   "description": "Check disk space for unity (Android & iOS)",
   "version": "1.0.0",
