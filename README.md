@@ -32,7 +32,8 @@ for version `1.0.0`
 
 - Check disk by device:
 
-![Image_20250618_114503_683](https://github.com/user-attachments/assets/a10ee713-a847-4346-b807-c371b00a2e67)
+![Image_20250618_114503_683](https://github.com/user-attachments/assets/75bcd8d9-9153-422a-9dd5-671683c59632)
+
 
 - Note:
 
